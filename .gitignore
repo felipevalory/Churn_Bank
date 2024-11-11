@@ -1,0 +1,42 @@
+# Python #
+##########
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+
+# Ambiente virtual #
+####################
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter Notebooks #
+####################
+.ipynb_checkpoints
+
+# Arquivos de IDE #
+###################
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs e Dados #
+################
+*.log
+*.csv
+*.tsv
+*.dat
+*.db
+*.sql
+
+# Arquivos do Sistema #
+#######################
+.DS_Store
+Thumbs.db
