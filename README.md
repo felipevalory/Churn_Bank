@@ -54,7 +54,7 @@ O relatório de classificação mostra uma acurácia de 87%, com maior precisão
 
 - Foco em oferecer produtos para clientes que possuam apenas um, para que fiquem com dois. Clientes com 3-4 produtos têm altas taxas de churn
 
-![Products](img/products.jpg)
+![Products](img/products.png)
 
 - Oferecer produtos de crédito e fincanciamento com taxas competitivas podem reter clientes com alta pontuação de crédito
 
