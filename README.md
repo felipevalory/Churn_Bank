@@ -68,7 +68,7 @@ F1-Score: 75% (é uma média balanceada entre precisão e recall, útil para gar
 
 ![Products](img/products.png)
 
-- Oferecer produtos de crédito e fincanciamento com taxas competitivas podem reter clientes com alta pontuação de crédito
+- Oferecer produtos de crédito e financiamento com taxas competitivas podem reter clientes com alta pontuação de crédito
 
 ![Credit](img/credit.png)
 
