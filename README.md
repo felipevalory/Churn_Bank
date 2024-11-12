@@ -34,7 +34,19 @@ Este projeto segue o ciclo CRISP (Cross-Industry Process for Data Science), uma 
 
 ## 🔍 Principais Insights
 
-O relatório de classificação mostra uma acurácia de 87%, com maior precisão e recall para clientes não-cancelados em comparação aos cancelados. A importância das variáveis indica que Idade, Salário Estimado e Pontuação de Crédito são os principais preditores de churn. Alguns insights:
+O relatório de classificação mostra uma acurácia de 87%, com maior precisão e recall para clientes não-cancelados em comparação aos cancelados. A importância das variáveis indica que Idade, Salário Estimado e Pontuação de Crédito são os principais preditores de churn. 
+
+**Resumo dos resultados:**
+
+Acurácia: 87% (representa a proporção de todas as previsões corretas).
+
+Precisão: 83% (indica, em média, a qualidade das previsões sobre clientes que provavelmente sairão ou não, ou seja, dos clientes avaliados, o modelo consegue prever o comportamento de 83%).
+
+Recall: 72% (indica a taxa média de acerto do modelo sobre o total de clientes que realmente saíram ou não).
+
+F1-Score: 75% (é uma média balanceada entre precisão e recall, útil para garantir que o modelo é bom tanto em identificar clientes em risco quanto em assegurar que esses clientes realmente saem).
+
+**Alguns insights:**
 
 - Taxa geral de churn: 20,37%
 
