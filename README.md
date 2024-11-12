@@ -18,6 +18,8 @@ Construir um modelo preditivo que identifique com precisão os clientes em risco
 
 Este projeto segue o ciclo CRISP (Cross-Industry Process for Data Science), uma metodologia ágil e iterativa, para garantir a entrega de uma solução end-to-end. Cada fase do ciclo foi utilizada para estruturar o projeto:
 
+![Churn](img/mind_map.png)
+
 - **Entendimento do Negócio**: Definir os fatores críticos para o churn.
 - **Entendimento dos Dados**: Realizar uma análise exploratória dos dados de clientes.
 - **Preparação dos Dados**: Limpeza, transformação e seleção das variáveis mais relevantes.
@@ -35,10 +37,28 @@ Este projeto segue o ciclo CRISP (Cross-Industry Process for Data Science), uma 
 O relatório de classificação mostra uma acurácia de 87%, com maior precisão e recall para clientes não-cancelados em comparação aos cancelados. A importância das variáveis indica que Idade, Salário Estimado e Pontuação de Crédito são os principais preditores de churn. Alguns insights:
 
 - Taxa geral de churn: 20,37%
+
+![Churn](img/churn.png)
+
 - Clientes de 38 a 53 anos têm maior probabilidade de churn. Seguros de vida e previdência podem reter parte deste público
+
+![Age](img/age.png)
+
 - Produtos exclusivos e qualificados podem reter clientes de alta renda
+
+![Salary](img/salary.png)
+
 - Entender as razões para clientes com saldos altos deixarem o banco; retornos diários competitivos para saldo em conta pode retê-los
+
+![Balance](img/balance.png)
+
+- Foco em oferecer produtos para clientes que possuam apenas um, para que fiquem com dois. Clientes com 3-4 produtos têm altas taxas de churn
+
+![Products](img/products.jpg)
+
 - Oferecer produtos de crédito e fincanciamento com taxas competitivas podem reter clientes com alta pontuação de crédito
+
+![Credit](img/credit.png)
 
 ## 📝 Conclusão
 
